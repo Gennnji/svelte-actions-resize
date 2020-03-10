@@ -1,6 +1,7 @@
 # svelte-actions-resize
 
 ResizeObserver action plugin for [Svelte 3](https://svelte.dev).
+Based on ponyfill @juggle/resize-observer.
 
 ## Installation
 
@@ -14,6 +15,8 @@ yarn add svelte-actions-resize
 ```
 
 ## Usage
+
+[DEMO](https://svelte.dev/repl/1a489d85e1fd4609ad86fc51d3b81d69?version=3)
 
 ```html
 <style>

@@ -15,7 +15,7 @@ export default [
   {
     input: './src/main/index.js',
     output: {
-      file: './build/index.mjs',
+      file: 'index.mjs',
       format: 'es'
     },
     plugins: [
@@ -26,7 +26,7 @@ export default [
   {
     input: './src/main/index.js',
     output: {
-      file: './build/index.js',
+      file: 'index.js',
       format: 'umd',
       name
     },
