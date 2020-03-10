@@ -1,6 +1,6 @@
 {
   "name": "svelte-actions-resize",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ResizeObserver action for Svelte 3",
   "main": "index.js",
   "module": "index.mjs",
@@ -11,8 +11,8 @@
     "start": "sirv public --port 5000"
   },
   "files": [
-    "./build/index.js",
-    "./build/index.mjs",
+    "index.js",
+    "index.mjs",
     "README.md"
   ],
   "repository": "https://github.com/Gennnji/svelte-actions-resize.git",
